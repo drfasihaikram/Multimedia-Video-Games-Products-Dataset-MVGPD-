@@ -1,0 +1,8 @@
+Get data pre processing 
+and preprocessing objects
+
+
+get data download apps and there reviews 
+
+preprocessing download iamges
+ and objects combine visual feature with other files
